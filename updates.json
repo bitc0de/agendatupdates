@@ -1,6 +1,11 @@
 [
      {
         "date": "19-08-2024",
+        "title": "Cumpleaños clientes",
+        "description": "Los cumpleaños de los clientes ahora se muestran en el calendario."
+     },
+     {
+        "date": "19-08-2024",
         "title": "Enviar tickets por email",
         "description": "Ahora es posible enviar los tickets por email al realizar el cobro."
     },
