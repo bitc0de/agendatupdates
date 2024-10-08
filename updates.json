@@ -1,5 +1,10 @@
 [
      {
+        "date": "08-10-2024",
+        "title": "Cabinas",
+        "description": "Ahora es posible asignar cabinas a las citas."
+     },
+     {
         "date": "19-08-2024",
         "title": "Cumpleaños clientes",
         "description": "Los cumpleaños de los clientes ahora se muestran en el calendario."
